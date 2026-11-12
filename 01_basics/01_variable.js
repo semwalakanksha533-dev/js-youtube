@@ -2,7 +2,7 @@ const accountId = 14433
 let accountEmail = "Akanksha"
 var accountPassword = "12345"
 accountCity = "jaipur"
-let accountState;// agar javascript main variable li value define nhi karte hai toh voh undefined value deta hai
+let accountState;// agar javascript main variable li  hui value define nhi karte hai toh voh undefined value deta hai
 //accountId = 2// not allowed
 
 accountEmail = "hps.com"
